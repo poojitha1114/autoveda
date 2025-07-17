@@ -33,4 +33,3 @@ OPENAI_API_KEY = "your_openai_api_key"
 - 📝 YouTube metadata (JSON)
 
 ---
-Made with ❤️ for Vedantu Interview Assignment
