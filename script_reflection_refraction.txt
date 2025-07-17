@@ -1,0 +1,34 @@
+
+[Opening Scene: Animated Classroom]
+
+🎙️ [Voiceover – Calm and Energetic tone]
+"Hey students! Welcome back to our Class 10 Physics series. Today, we’re diving into an exciting topic — Light: Reflection and Refraction!"
+
+[Slide Transition: Title - "Reflection of Light"]
+
+🎙️ "First, let’s talk about reflection. Have you ever looked into a mirror and seen your face staring back? That’s reflection! When light bounces off a surface, it changes direction. This obeys the 'Laws of Reflection' — the angle of incidence equals the angle of reflection."
+
+[Visual: Animated light ray hitting a mirror]
+
+🎙️ "There are two types: Regular Reflection (from smooth surfaces) and Diffused Reflection (from rough surfaces)."
+
+[Slide Transition: Title - "Refraction of Light"]
+
+🎙️ "Now, let’s move to refraction. This happens when light passes from one medium to another and bends. Like a pencil in water appearing bent? That’s refraction!"
+
+[Visual: Glass slab and light bending animation]
+
+🎙️ "It occurs because light travels at different speeds in different mediums. The angle it bends depends on the refractive index of the materials."
+
+[Slide: Snell’s Law Formula]
+
+🎙️ "Snell’s Law gives us the relationship: n1 * sin(i) = n2 * sin(r). Don’t worry – we’ll practice problems on this soon!"
+
+[Closing Frame: Summary and Outro Music]
+
+🎙️ "To recap: Reflection = bouncing, Refraction = bending. Understanding these helps us grasp the behavior of light in daily life!"
+
+🎙️ "Subscribe and hit the bell icon — more concepts coming your way!"
+
+[End Screen: Channel branding, next video thumbnails]
+
